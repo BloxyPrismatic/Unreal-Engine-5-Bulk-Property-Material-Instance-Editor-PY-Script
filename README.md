@@ -21,4 +21,6 @@ Your project folders and files must follow this standard structure:
 4. **Run Script:** Paste the script into the bar and press **Enter**.
 
 *Tip: You can change the values (like `EmissiveColorMapWeightValue`) at the top of the script before running it.*
+*Tip: If The Material Is Too Bright Adjust The EmissiveColorMapWeightValue (e.g .05)*
+
 
