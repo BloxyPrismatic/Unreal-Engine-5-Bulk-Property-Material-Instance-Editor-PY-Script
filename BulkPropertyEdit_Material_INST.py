@@ -36,7 +36,7 @@ EmissiveColorMapWeight = "EmissiveColorMapWeight"
 # VALUES
 AmbientColorMapWeightValue = 1.0
 AmbientOcclusionMapWeightValue = 1.0
-EmissiveColorMapWeightValue = .05
+EmissiveColorMapWeightValue = 1.0
 
 #____Global_Texture_Parameter_Values____#
 # DEFAULT PARAMETERS : AmbientColorMap, AmbientOcclusionMap, EmissiveColorMap
